@@ -9,3 +9,4 @@ Jean-Luc Picard is a fictional character in the Star Trek franchise, most-often 
 
 > Make it so
 
+<img src="https://en.wikipedia.org/wiki/File:Patrick_Steward_as_Jean-Luc_Picard_in_1996%27s_Star_Trek_First_Contact.jpg"/>
