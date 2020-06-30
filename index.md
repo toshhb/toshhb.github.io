@@ -7,4 +7,5 @@ Jean-Luc Picard is a fictional character in the Star Trek franchise, most-often 
 * Knows well how to delegate
 * Doesn't feel well when children want his attention
 
+> Make it so
 
